@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Title Goes Here<br>Up To Two Lines',
+    title: 'Title Goes Here<br />Up To Two Lines',
     subtitle: 'Subtitle Goes Here',
     //eventInfo: {
     //  title: 'Google I/O',
@@ -22,12 +22,12 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title<br>Google',
+    name: 'Dave Tang',
+    company: 'Research Associate<br>RIKEN',
     gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
+    twitter: '@davetang31',
+    www: 'http://davetang.org/',
+    github: 'http://github.com/davetang'
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
