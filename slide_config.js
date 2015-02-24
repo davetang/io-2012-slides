@@ -2,8 +2,8 @@ var SLIDE_CONFIG = {
   // Slide settings
   settings: {
     //title: 'Title Goes Here <br /> Up To Two Lines',
-    title: 'Transcriptome sequencing',
-    subtitle: 'A summary of my work',
+    title: 'A short summary of my work',
+    subtitle: 'Thus far.',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
@@ -25,7 +25,6 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: 'Dave Tang',
     company: 'Research Associate<br>RIKEN',
-    gplus: 'http://plus.google.com/+davetang31',
     twitter: '@davetang31',
     www: 'http://davetang.org/',
     github: 'http://github.com/davetang'
